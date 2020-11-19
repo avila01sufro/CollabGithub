@@ -6,4 +6,5 @@ Fernando Fernández
 
 Actividad:
 Hicimos en dos ramas secundarias un archivo .java con el mensaje "Hola mundo", y luego añadimos una segunda línea que indicaba nuestro nombre.
-Al hacer merge a main desde ambas ramas, ambos archivos aparecieron en la rama principal, con el mismo nombre, siendo sólo distinguibles por su contenido, y la hora de subida.
+Al hacer merge a main desde ambas ramas, el intento fue detenido por el sitio, indicando conflictos con los contenidos.
+Debido a que los archivos eran iguales en nombre, se tuvo que resolver el problema de contenido manualmente.
